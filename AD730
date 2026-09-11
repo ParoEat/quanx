@@ -1,16 +1,12 @@
 #!name=广告拦截合集-重写
 #!desc=(支持约730款APP/小程序)针对部分APP和小程序广告进行拦截，某些APP要清除缓存或者重新安装拦截广告才会生效！
-#!author=奶思
-#!homepage=https://github.com/fmz200/wool_scripts
-#!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
-#!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/rewrite/rewrite.snippet
-#!tg-channel=https://t.me/inaisi
-#!category=奶思的模块
-#!tag = 去广告, 奶思
+#!author=菠萝
+#闲鱼：大菠萝的店
+#!category=菠萝的模块
+#!tag = 去广告,
 #!system = iOS, iPadOS
 #!system_version = 
 #!loon_version = 
-#!date=2026-09-10 21:18:40
 #!remark=下方的所有规则都标注了对应的hostname，可能存在错误或者遗漏，欢迎反馈。对于无法/可选MITM的hostname都特别做了“如开启可自行添加主机名”提示，如果提示后面没有标注主机名则包含所有主机名，否则只包含提示语后面的主机名。
 #############################################
 # "reject"        策略返回 HTTP 状态码 404,不附带任何额外内容
